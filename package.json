@@ -1,0 +1,11 @@
+{
+	"name": "mustache-node", 
+	"description": "Simple module which makes it easy to use Mustache templates in frameworks such as ExpressJS", 
+	"version": "0.0.1", 
+	"author": "Espen Dallokken", 
+	"repository": "git://github.com/leftieFriele/mustache-node", 
+	"engines": { "node": ">= 0.2.4" },
+	"dependencies": {
+		"mustache": "0.3.1-dev",
+	}
+}
